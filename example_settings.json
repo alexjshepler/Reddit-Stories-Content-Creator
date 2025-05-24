@@ -1,0 +1,13 @@
+{
+    "reddit": {
+        "api": {
+            "client_id": "client_id",
+            "client_secret": "client_secret",
+            "username": "username"
+        },
+        "subreddits": [],
+        "min_words": 0,
+        "min_comments": 0,
+        "min_ratio": -999999
+    }
+}
